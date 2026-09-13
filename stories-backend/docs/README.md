@@ -87,7 +87,7 @@ For more detailed information, please refer to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OpaceDigitalAgency/stories.git
+   git clone https://github.com/InnovatingTech/stories.git
    cd stories
    ```
 
