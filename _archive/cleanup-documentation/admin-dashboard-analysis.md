@@ -102,7 +102,7 @@ There are multiple deployment locations:
 
 1. **Local Development** - The workspace directory
 2. **cPanel Web Server** - https://api.storiesfromtheweb.org/
-3. **Git Repository** - https://github.com/OpaceDigitalAgency/stories
+3. **Git Repository** - https://github.com/InnovatingTech/stories
 
 The cPanel deployment shows multiple folders that may contain redundant code:
 - `/api.storiesfromtheweb.org/admin/` (current)
