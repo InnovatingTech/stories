@@ -2,12 +2,9 @@
 
 A platform for discovering and sharing children's books and stories.
 
-> This project is not featured in the main portfolio table. Browse Opace's reusable open-source projects in the [Opace Digital Agency open-source portfolio](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency).
-
 # Docs and readme file locations
 
 All docs are stored in the sub-folder stories-backend/docs
-
 
 ## VPS Server Configuration
 
@@ -57,25 +54,3 @@ Changes are automatically deployed when pushed to the main branch of the GitHub 
 - `/scrape/amazon` - Scrapes reviews from Amazon
 Auto-deploy test Sun May 18 08:57:54 BST 2025
 Deploy test: Sun May 18 09:01:43 BST 2025
-
-
----
-
-## About Opace Digital Agency
-
-This project is developed and maintained by **Opace Digital Agency**, a Birmingham-based web design and development agency specializing in modern web solutions.
-
-### Our Services
-
-- **Web Design & Development** - Professional, responsive websites
-- **Next.js & React Development** - Modern web applications
-- **Frontend Development** - Cutting-edge user interfaces
-- **WordPress Development** - Custom themes and plugins
-- **E-commerce Solutions** - Scalable online stores
-
-### Get in Touch
-
-- 🌐 Website: [opace.agency](https://opace.agency)
-- 📧 Services: [Web Design & Development](https://opace.agency/services/web-design)
-- 💼 GitHub: [@OpaceDigitalAgency](https://github.com/OpaceDigitalAgency)
-- 📍 Location: Birmingham, UK
