@@ -146,7 +146,7 @@ if (strpos($currentDeployConfig, '"ondeploy"') !== false) {
   "allow-root-user": true,
   "repositories": [
     {
-      "url": "https://github.com/OpaceDigitalAgency/stories.git",
+      "url": "https://github.com/InnovatingTech/stories.git",
       "branch": "main",
       "path": "/opt/stories",
       "deploy": [
