@@ -40,7 +40,7 @@ Review the following locations for redundant code based on our analysis:
 
 ```bash
 # Clone fresh copy
-git clone https://github.com/OpaceDigitalAgency/stories.git stories-clean
+git clone https://github.com/InnovatingTech/stories.git stories-clean
 
 # Remove redundant files
 cd stories-clean
