@@ -24,7 +24,7 @@ We've moved from FTPS/GitHub Actions deployment to using cPanel's built-in Git V
 2. Go to "Git Version Control"
 3. Click "Create" to create a new repository
 4. Enter the following details:
-   - Clone URL: `https://github.com/OpaceDigitalAgency/stories.git`
+   - Clone URL: `https://github.com/InnovatingTech/stories.git`
    - Repository Path: `/home/stories/repositories/stories`
    - Repository Name: `stories`
 5. Click "Create"
