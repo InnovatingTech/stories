@@ -27,7 +27,7 @@ A secure PHP API layer and admin interface for connecting an Astro site to a MyS
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/OpaceDigitalAgency/stories.git
+git clone https://github.com/InnovatingTech/stories.git
 cd stories
 ```
 
