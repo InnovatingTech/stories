@@ -1198,7 +1198,7 @@ deployment:
 
     <h2 id="getting-started">Getting Started</h2>
     <h3>Clone & Install</h3>
-    <pre><code>git clone https://github.com/OpaceDigitalAgency/stories.git
+    <pre><code>git clone https://github.com/InnovatingTech/stories.git
 cd stories
 npm install
 npm run dev
