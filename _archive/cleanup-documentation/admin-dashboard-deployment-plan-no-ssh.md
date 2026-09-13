@@ -46,7 +46,7 @@ Review the following locations for redundant code based on our analysis:
 
 ```bash
 # Clone fresh copy
-git clone https://github.com/OpaceDigitalAgency/stories.git stories-clean
+git clone https://github.com/InnovatingTech/stories.git stories-clean
 
 # Remove redundant files
 cd stories-clean
@@ -199,7 +199,7 @@ To keep all environments in sync going forward:
    - Create/manage repositories
    - Set up automated deployment from Git
    - Example configuration:
-     - Repository URL: https://github.com/OpaceDigitalAgency/stories.git
+     - Repository URL: https://github.com/InnovatingTech/stories.git
      - Branch: main
      - Repository Path: /home/username/repositories/stories
      - Deploy Path: /home/username/api.storiesfromtheweb.org
