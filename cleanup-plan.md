@@ -88,7 +88,7 @@ Important steps for successful deployment:
    - This prevents connection issues with Git Version Control
 
 2. Then set up Git deployment:
-   - URL: https://github.com/OpaceDigitalAgency/stories
+   - URL: https://github.com/InnovatingTech/stories
    - Branch: main
    - Path: /home/stories/api.storiesfromtheweb.org
 
