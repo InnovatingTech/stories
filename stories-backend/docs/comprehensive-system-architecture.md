@@ -60,7 +60,7 @@ The platform is designed with a clear separation between the frontend and backen
 #### Frontend
 - **URL**: https://storiesfromtheweb.netlify.app/
 - **Hosting**: Netlify
-- **Repository**: https://github.com/OpaceDigitalAgency/stories
+- **Repository**: https://github.com/InnovatingTech/stories
 - **Branch**: main
 - **Deployment**: Automatic on push to main branch
 
@@ -68,7 +68,7 @@ The platform is designed with a clear separation between the frontend and backen
 - **API URL**: https://api.storiesfromtheweb.org/
 - **Admin URL**: https://api.storiesfromtheweb.org/admin/
 - **Hosting**: cPanel shared hosting
-- **Repository**: https://github.com/OpaceDigitalAgency/stories
+- **Repository**: https://github.com/InnovatingTech/stories
 - **Branch**: main
 - **Deployment**: Manual via cPanel Git Version Control
 
@@ -76,7 +76,7 @@ The platform is designed with a clear separation between the frontend and backen
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/OpaceDigitalAgency/stories.git
+   git clone https://github.com/InnovatingTech/stories.git
    cd stories
    ```
 
@@ -910,7 +910,7 @@ graph TD
 3. **Access Details**:
    - cPanel URL: https://cpanel.storiesfromtheweb.org/
    - Username: Contact administrator for credentials
-   - Git repository: https://github.com/OpaceDigitalAgency/stories
+   - Git repository: https://github.com/InnovatingTech/stories
 
 ## Key Files and Components
 
@@ -988,7 +988,7 @@ graph TD
 ### For New Developers
 
 1. **Setup Development Environment**:
-   - Clone repository: `git clone https://github.com/OpaceDigitalAgency/stories.git`
+   - Clone repository: `git clone https://github.com/InnovatingTech/stories.git`
    - Install dependencies: `npm install`
    - Start development server: `npm run dev`
 
